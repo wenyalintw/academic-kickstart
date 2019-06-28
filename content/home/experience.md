@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   company_url = "https://www.fki.com/tw/index.html"
   location = "Tainan City, Taiwan"
   date_start = "2017-02-01"
-  date_end = "2017-02-31"
+  date_end = "2017-02-28"
   description = """blablabla."""
    
 +++
