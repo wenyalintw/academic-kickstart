@@ -34,6 +34,14 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-08-31"
   description = """blablabla."""
+[[experience]]
+  title = "Patent Engineer (Intern)"
+  company = "IPPLUS PATENT OFFICE"
+  company_url = "http://www.ipplus.com.tw/"
+  location = "New Taipei City, Taiwan"
+  date_start = "2018-01-01"
+  date_end = "2018-08-31"
+  description = """blablabla."""
 
 
 
