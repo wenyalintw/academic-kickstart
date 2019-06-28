@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "New Taipei City, Taiwan"
   date_start = "2018-01-01"
   date_end = "2018-8-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = Taught electronic engineering and researched semiconductor physics.
 
 [[experience]]
   title = "CEO"
