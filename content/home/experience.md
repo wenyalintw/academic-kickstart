@@ -35,6 +35,13 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-08-31"
   description = """blablabla."""
-
+[[experience]]
+  title = "Summer Intern"
+  company = "Li Peng Precise Machinery Co, Ltd"
+  company_url = "http://www.li-peng.com/"
+  location = "New Taipei City, Taiwan"
+  date_start = "2017-07-01"
+  date_end = "2017-8-31"
+  description = """blablabla."""
 
 +++
