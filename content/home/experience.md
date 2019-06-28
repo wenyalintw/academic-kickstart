@@ -24,21 +24,25 @@ date_format = "Jan 2006"
   location = "Taipei City, Taiwan"
   date_start = "2017-08-31"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """Medical image processing algorithm's R&D.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Patent Engineer (Intern)"
+  company = "IPPLUS PATENT OFFICE"
+  company_url = "http://www.ipplus.com.tw/"
+  location = "New Taipei City, Taiwan"
+  date_start = "2018-01-01"
+  date_end = "2018-08-31"
+  description = """blablabla."""
+
+[[experience]]
+  title = "Patent Engineer (Intern)"
+  company = "IPPLUS PATENT OFFICE"
+  company_url = "http://www.ipplus.com.tw/"
+  location = "New Taipei City, Taiwan"
+  date_start = "2018-01-01"
+  date_end = "2018-08-31"
+  description = """blablabla."""
 
 +++
