@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Wen-Ya Lin (林温雅)
+name: Wen-Ya Lin
 
 # Username (this should match the folder name)
 authors:

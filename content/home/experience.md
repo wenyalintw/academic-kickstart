@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software Engineer (Intern)"
+  company = "Saturn Imaging"
+  company_url = "http://www.saturnimage.com.tw/"
+  location = "Taipei City, Taiwan"
+  date_start = "2018-8-31"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Medical image processing algorithm's R&D.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Patent Engineer (Intern)"
+  company = "IPPLUS PATENT OFFICE"
+  company_url = "http://www.ipplus.com.tw/"
+  location = "New Taipei City, Taiwan"
+  date_start = "2018-01-01"
+  date_end = "2018-8-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
-
+  
+[[experience]]
+  title = "Summer Intern"
+  company = "Li Peng Precise Machinery Co, Ltd"
+  company_url = "http://www.li-peng.com/"
+  location = "New Taipei City, Taiwan"
+  date_start = "2017-07-01"
+  date_end = "2017-8-31"
+  description = """blablabla."""
+   
+[[experience]]
+  title = "Customer Service Engineer (Winter Intern)"
+  company = "Fong Kee International Machinery Co., Ltd."
+  company_url = "https://www.fki.com/tw/index.html"
+  location = "Tainan City, Taiwan"
+  date_start = "2017-02-01"
+  date_end = "2017-02-31"
+  description = """blablabla."""
+   
 +++
