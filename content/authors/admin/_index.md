@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Wen-Ya Lin is a M.S. Student of Mechanical Engineering at National Taiwan University. Currently, his research focus on medical image segementation.
+I am a M.S. Student of Mechanical Engineering at National Taiwan University. Currently, my research focus on medical image segementation.
