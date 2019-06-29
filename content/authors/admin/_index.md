@@ -47,7 +47,7 @@ social:
   link: https://github.com/wenyalintw
 - icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/%E6%B8%A9%E9%9B%85-%E6%9E%97-1b5408158/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wenyalintw

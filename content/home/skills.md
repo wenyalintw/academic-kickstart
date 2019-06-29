@@ -30,12 +30,6 @@ subtitle = ""
   icon = "globe-asia"
   icon_pack = "fas"
   name = "Language"
-  description = "Mandarin (Mother tongue), English (TOEIC 950), Japanese (JLPT N3)"  
-  
-[[feature]]
-  icon = "guitar"
-  icon_pack = "fas"
-  name = "Guitar"
-  description = "Progressive Metal Fans"
+  description = "Mandarin (Mother tongue), English (TOEIC 950), Japanese (JLPT N3)"
 
 +++
