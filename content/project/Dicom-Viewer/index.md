@@ -10,8 +10,8 @@ date: "2019-01-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Demo
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
 
 links:
 - icon: twitter
