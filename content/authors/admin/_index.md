@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: M.S. Student in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a M.S. Student of Mechanical Engineering at National Taiwan University. Currently, my research focus on medical image segementation.
+I am a M.S. Student in Mechanical Engineering at National Taiwan University. Currently, my research focus on medical image segementation.
