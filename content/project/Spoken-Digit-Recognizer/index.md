@@ -38,21 +38,10 @@ slides: ""
 <p align="center">
   <h2 align="center">語音數字辨識專案 (Spoken-Digit Recognizer)</h2>
   <div align="center">
-    本project旨在運用Keras建立Model，辨識使用者說的中/英數字，並使用GUI呈現。
+    本project運用Keras建立Model，辨識使用者說的中/英數字，並使用GUI呈現。
   </div>
 </p>
 
-<p align="center"><a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/split_audio"><img src="https://img.shields.io/badge/Split--Audio-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Spectrogram_CNN"><img src="https://img.shields.io/badge/Spectrogram%2BCNN-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/MFCC_RNN"><img src="https://img.shields.io/badge/MFCC%2BRNN-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Gan"><img src="https://img.shields.io/badge/GAN-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Demo"><img src="https://img.shields.io/badge/Demo-src-brightgreen.svg" alt="" /></a></p>
-
-<p align="center"><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb"><img src="https://img.shields.io/badge/Split--Audio-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb"><img src="https://img.shields.io/badge/Spectrogram%2BCNN-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/MFCC_RNN_doc.ipynb"><img src="https://img.shields.io/badge/MFCC%2BRNN-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb"><img src="https://img.shields.io/badge/GAN-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Demo_doc.ipynb"><img src="https://img.shields.io/badge/Demo-doc-blue.svg" alt="" /></a></p>
 
 <h2 id="demo">先看段Demo吧！</h2>
 
@@ -65,7 +54,7 @@ slides: ""
 <p>Demo詳細介紹請點連結</p>
 
 <ul>
-<li>### <a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Demo_doc.ipynb">(Detailed) Demo</a></li>
+<li><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Demo_doc.ipynb">(Detailed) Demo</a></li>
 </ul>
 
 <h2 id="dataset">Dataset</h2>
@@ -109,17 +98,17 @@ slides: ""
 <p>對目標1，先將包含多數字的音檔分割，再使用不同種model來辨識，詳細介紹請點連結</p>
 
 <ul>
-<li>### <a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb">(Detailed) Split Audio</a></li>
+<li><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb">(Detailed) Split Audio</a></li>
 
-<li>### <a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb">(Detailed) Spectrogram + CNN</a>    </li>
+<li><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb">(Detailed) Spectrogram + CNN</a></li>
 
-<li>### <a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/MFCC_RNN_doc.ipynb">(Detailed) MFCC + RNN</a></li>
+<li><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/MFCC_RNN_doc.ipynb">(Detailed) MFCC + RNN</a></li>
 </ul>
 
 <p>對目標2，使用inverse-STFT方式，詳細介紹請點連結</p>
 
 <ul>
-<li>### <a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb">(Detailed) GAN</a></li>
+<li><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb">(Detailed) GAN</a></li>
 </ul>
 
 <h2 id="-3">問題討論</h2>
