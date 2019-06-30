@@ -34,9 +34,8 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-08-31"
   description = """
-  * Patent searching
-  * Patent analyzing
-  * Patent portfolio strategy
+  * Patent searching & analysis
+  * Patent portfolio analysis
   """
 [[experience]]
   title = "Summer Intern"
@@ -48,7 +47,7 @@ date_format = "Jan 2006"
   description = """  
   * Machine testing & assembling
   * Workpieces processing (using grinding
-machine, milling machine...etc."""
+machine, milling machine...etc.""")
 [[experience]]
   title = "Customer Service Engineer (Winter Intern)"
   company = "Fong Kee International Machinery Co., Ltd."
@@ -57,7 +56,7 @@ machine, milling machine...etc."""
   date_start = "2017-02-01"
   date_end = "2017-02-28"
   description = """Studied related knowledge of
-the hydraulic power system on company’s Extrusion molding machine, than organized those as teaching material for non-engineering background staff members"""
+the hydraulic power system on company’s Extrusion Molding Machine, than organized those as teaching material for non-engineering background staff members"""
 
 
 +++
