@@ -12,16 +12,18 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
+  preview_only = true
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/wenyalintw
+  name: View on Github
+  link: https://github.com/wenyalintw/Dicom-Viewer
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=NS75AQOVOss&feature=youtu.be"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,9 +34,6 @@ slides: ""
 ---
 
 <p align="center">
-  <a href="https://github.com/wenyalintw/Dicom_Viewer">
-    <img src="resources/brain.png" alt="Dicom Viewer" width="96" height="96">
-  </a>
   <h2 align="center">簡易醫學影像GUI (Dicom Viewer)</h2>
   <p align="center">能顯示 2D/3D Dicom影像的應用</p>
   <br>
