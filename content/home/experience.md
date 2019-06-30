@@ -33,7 +33,11 @@ date_format = "Jan 2006"
   location = "New Taipei City, Taiwan"
   date_start = "2018-01-01"
   date_end = "2018-08-31"
-  description = """blablabla."""
+  description = """
+  * Patent searching
+  * Patent analyzing
+  * Patent portfolio strategy
+  """
 [[experience]]
   title = "Summer Intern"
   company = "Li Peng Precise Machinery Co, Ltd"
@@ -41,7 +45,10 @@ date_format = "Jan 2006"
   location = "New Taipei City, Taiwan"
   date_start = "2017-07-01"
   date_end = "2017-08-31"
-  description = """blablabla."""
+  description = """  
+  * Machine testing & assembling
+  * Workpieces processing (using grinding
+machine, milling machine...etc."""
 [[experience]]
   title = "Customer Service Engineer (Winter Intern)"
   company = "Fong Kee International Machinery Co., Ltd."
@@ -49,7 +56,8 @@ date_format = "Jan 2006"
   location = "Tainan City, Taiwan"
   date_start = "2017-02-01"
   date_end = "2017-02-28"
-  description = """blablabla."""
+  description = """Studied related knowledge of
+the hydraulic power system on company’s Extrusion molding machine, than organized those as teaching material for non-engineering background staff members"""
 
 
 +++
