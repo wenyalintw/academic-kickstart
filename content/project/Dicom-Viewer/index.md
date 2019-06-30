@@ -46,7 +46,13 @@ slides: ""
 
 <h3 id="ahrefhttpswwwyoutubecomwatchvtoxcznnnz4cfeatureyoutube2dimageprocessinga"><a href="https://www.youtube.com/watch?v=TOXczNnnZ4c&amp;feature=youtu.be">2D Image Processing</a></h3>
 
+<iframe width="640" height="360" align="center" src="https://www.youtube.com/embed/TOXczNnnZ4c">
+</iframe>
+
 <h3 id="ahrefhttpswwwyoutubecomwatchvns75aqovossfeatureyoutube3dimageprocessinga"><a href="https://www.youtube.com/watch?v=NS75AQOVOss&amp;feature=youtu.be">3D Image Processing</a></h3>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NS75AQOVOss">
+</iframe>
 
 <h2 id="">執行畫面</h2>
 
