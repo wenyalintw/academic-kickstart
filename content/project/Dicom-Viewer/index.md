@@ -12,7 +12,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only = true
+  preview_only: true
 
 links:
 - icon: github
