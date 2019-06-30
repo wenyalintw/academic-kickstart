@@ -18,7 +18,7 @@ links:
 - icon: github
   icon_pack: fab
   name: View on Github
-  link: https://github.com/wenyalintw/Dicom-Viewer
+  url: https://github.com/wenyalintw/Dicom-Viewer
 
 url_code: ""
 url_pdf: ""
