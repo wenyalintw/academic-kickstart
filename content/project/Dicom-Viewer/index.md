@@ -48,14 +48,14 @@ slides: ""
 <p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TOXczNnnZ4c">
 </iframe>
-<\p>
+</p>
 
 <h3 id="ahrefhttpswwwyoutubecomwatchvns75aqovossfeatureyoutube3dimageprocessinga"><a href="https://www.youtube.com/watch?v=NS75AQOVOss&amp;feature=youtu.be">3D Image Processing</a></h3>
 
 <p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NS75AQOVOss">
 </iframe>
-<\p>
+</p>
 
 <h2 id="">執行畫面</h2>
 
