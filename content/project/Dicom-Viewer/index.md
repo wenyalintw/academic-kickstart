@@ -1,9 +1,10 @@
 ---
 title: Dicom-Viewer
-summary: 能顯示 2D/3D Dicom影像的應用
+summary: An PyQt-application which could display and edit 2D/3D Dicom image.
 tags:
 - Dicom
 - Image Processing
+- PyQt
 date: "2019-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -32,7 +33,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
 <p align="center">
   <h2 align="center">簡易醫學影像GUI (Dicom Viewer)</h2>
   <p align="center">能顯示 2D/3D Dicom影像的應用</p>
@@ -45,13 +45,17 @@ slides: ""
 
 <h3 id="ahrefhttpswwwyoutubecomwatchvtoxcznnnz4cfeatureyoutube2dimageprocessinga"><a href="https://www.youtube.com/watch?v=TOXczNnnZ4c&amp;feature=youtu.be">2D Image Processing</a></h3>
 
-<iframe width="640" height="360" align="center" src="https://www.youtube.com/embed/TOXczNnnZ4c">
+<p align="center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TOXczNnnZ4c">
 </iframe>
+<\p>
 
 <h3 id="ahrefhttpswwwyoutubecomwatchvns75aqovossfeatureyoutube3dimageprocessinga"><a href="https://www.youtube.com/watch?v=NS75AQOVOss&amp;feature=youtu.be">3D Image Processing</a></h3>
 
+<p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NS75AQOVOss">
 </iframe>
+<\p>
 
 <h2 id="">執行畫面</h2>
 
