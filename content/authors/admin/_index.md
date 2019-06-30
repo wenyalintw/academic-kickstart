@@ -15,10 +15,10 @@ role: M.S. Student in Mechanical Engineering
 # Organizations/Affiliations
 organizations:
 - name: National Taiwan University
-  url: ""
+  url: "https://www.ntu.edu.tw/english/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Image Processing, Artificial Intelligence and Internet of Things.
 
 interests:
 - Medical Image Processing
