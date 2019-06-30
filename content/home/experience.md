@@ -35,8 +35,7 @@ date_format = "Jan 2006"
   date_end = "2018-08-31"
   description = """
   * Patent searching & analysis
-  * Patent portfolio analysis
-  """
+  * Patent portfolio analysis"""
 [[experience]]
   title = "Summer Intern"
   company = "Li Peng Precise Machinery Co, Ltd"
@@ -46,8 +45,7 @@ date_format = "Jan 2006"
   date_end = "2017-08-31"
   description = """  
   * Machine testing & assembling
-  * Workpieces processing (using grinding
-machine, milling machine...etc.""")
+  * Workpieces processing (using grinding machine, milling machine...etc.)"""
 [[experience]]
   title = "Customer Service Engineer (Winter Intern)"
   company = "Fong Kee International Machinery Co., Ltd."
@@ -56,7 +54,7 @@ machine, milling machine...etc.""")
   date_start = "2017-02-01"
   date_end = "2017-02-28"
   description = """Studied related knowledge of
-the hydraulic power system on company’s Extrusion Molding Machine, than organized those as teaching material for non-engineering background staff members"""
+the hydraulic power system on company’s Extrusion Molding Machine, than organized those as teaching material for non-engineering background staff members."""
 
 
 +++
