@@ -47,7 +47,7 @@ social:
   link: https://github.com/wenyalintw
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/%E6%B8%A9%E9%9B%85-%E6%9E%97-1b5408158/
+  link: https://www.linkedin.com/in/wenyalintw/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wenyalintw
@@ -69,4 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a M.S. Student in Mechanical Engineering at National Taiwan University. Currently, my research focus on medical image segementation.
+I am a M.S. Student in Mechanical Engineering at National Taiwan University. My interdisciplinary interests including IOT, AI and image processing. Recently, my research focus on medical image segementation.
+
+Feel free to contact me for any reason, it will be my pleasure to hear from you. Have a nice day!
