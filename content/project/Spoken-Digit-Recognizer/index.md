@@ -5,7 +5,8 @@ tags:
 - Machine Learning
 - Keras
 - Digital Speech Processing
-- PyQt
+- Python
+- Qt
 date: "2019-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
