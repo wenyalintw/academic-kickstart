@@ -44,22 +44,14 @@ slides: ""
   </div>
 </p>
 
-<p align="center">
-     <a href=#>
-        <img src="resources/schematic_1.png" width="160" height="132">
-        <img src="resources/schematic_2.png" width="160" height="132">
-        <img src="resources/schematic_3.png" width="160" height="132">
-    </a>
-</p>
-
 <h2 id="tableofcontents">Table of contents</h2>
 
 <ul>
-<li><a href="#application-demo">Application Demo</a></li>
+<li><a href="#applicationdemo">Application Demo</a></li>
 
 <li><a href="#introduction">Introduction</a></li>
 
-<li><a href="#built-with">Built With</a></li>
+<li><a href="#builtwith">Built With</a></li>
 
 <li><a href="#installation">Installation</a></li>
 

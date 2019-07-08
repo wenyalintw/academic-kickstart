@@ -35,6 +35,9 @@ url_video: ""
 slides: ""
 ---
 <p align="center">
+  <a href="https://github.com/wenyalintw/Dicom_Viewer">
+    <img src="resources/brain.png" alt="Dicom Viewer" width="96" height="96">
+  </a>
   <h2 align="center">簡易醫學影像GUI (Dicom Viewer)</h2>
   <p align="center">能顯示 2D/3D Dicom影像的應用</p>
   <br>

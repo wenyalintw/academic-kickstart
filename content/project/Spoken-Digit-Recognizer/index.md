@@ -35,14 +35,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
 <p align="center">
+  <a href=#>
+    <img src="resources/microphone.png" alt="Spoken-Digit Recognizer" width="96" height="96">
+  </a>
   <h2 align="center">語音數字辨識專案 (Spoken-Digit Recognizer)</h2>
   <div align="center">
     本project運用Keras建立Model，辨識使用者說的中/英數字，並使用GUI呈現。
   </div>
+  <br>
 </p>
-
 
 <h2 id="demo">先看段Demo吧！</h2>
 

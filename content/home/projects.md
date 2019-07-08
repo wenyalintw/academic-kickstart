@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Medical"
-    tag = "Medical"
-  
-  [[content.filter_button]]
     name = "Image Processing"
     tag = "Image Processing"
+  
+  [[content.filter_button]]
+    name = "C++"
+    tag = "C++"
+    
+  [[content.filter_button]]
+    name = "Python"
+    tag = "Python"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
