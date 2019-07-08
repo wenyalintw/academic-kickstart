@@ -30,8 +30,8 @@ subtitle = ""
     tag = "Image Processing"
   
   [[content.filter_button]]
-    name = "Cpp"
-    tag = "Cpp"
+    name = "CPP"
+    tag = "CPP"
     
   [[content.filter_button]]
     name = "Python"
