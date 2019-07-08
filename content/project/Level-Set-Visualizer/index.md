@@ -4,7 +4,7 @@ summary: Visualize image segmentation based on level set method.
 tags:
 - Dicom
 - Image Processing
-- Cpp
+- c++
 - Qt
 date: "2019-07-08T00:00:00Z"
 
