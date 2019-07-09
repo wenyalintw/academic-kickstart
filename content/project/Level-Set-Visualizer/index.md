@@ -69,7 +69,7 @@ slides: ""
 
 <h2 id="introduction">Introduction</h2>
 
-<p>This application Perform image segmentation by following steps:</p>
+<p>This application perform image segmentation by following steps:</p>
 
 <ul>
 <li>Load Image &amp; Start Level-Set Mode</li>
@@ -118,7 +118,8 @@ slides: ""
 <h2 id="builtwith">Built With</h2>
 
 <ul>
-<li><a href="https://itk.org/ITK/resources/legacy_releases.html">ITK 4.12</a> - Image Processing Algorithms</li>
+<li><a href="https://itk.org/ITK/resources/legacy_releases.html">ITK 4.12</a> - Image Processing Algorithms (w/ module <code>ITKVtkGlue</code>)</li>
+
 
 <li><a href="https://vtk.org/download/">VTK 8.2</a> - Image Display</li>
 
@@ -126,7 +127,7 @@ slides: ""
 </ul>
 
 <h2 id="installation">Installation</h2>
-
+<p>Before running the following command, modify <code>QT_HOME</code>, <code>ITK_DIR</code>, and <code>VTK_DIR</code> in <a href="https://github.com/wenyalintw/Level-Set-Visualizer/blob/master/src/CMakeLists.txt">CMakeLists.txt</a></p>
 <pre><code class="sh language-sh">$ mkdir build
 $ cd build
 $ cmake ../src
