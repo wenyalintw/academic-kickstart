@@ -153,3 +153,11 @@ slides: ""
 <p>Project root will be <strong>/src</strong>, just clone it and run mainwindow.py.</p>
 
 <p>Strictly follow the package version in requirements.txt is not necessary.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li><a href="https://github.com/wenyalintw/Dicom-Viewer/blob/master/resources/brain.png">brain.png</a> licensed under "CC BY 3.0" downloaded from <a href="https://www.iconfinder.com/icons/1609653/brain_organs_icon">ICONFINDER</a> </li>
+
+<li>3D volumn reconstruction modified from <a href="https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/">Howard Chen's Post</a></li>
+</ul>

@@ -24,7 +24,7 @@ subtitle = ""
   icon = "cogs"
   icon_pack = "fas"
   name = "Engineering software"
-  description = "Labview (CLAD certificate), AutoCAD, Creo Parametric, Mathematica"
+  description = "Labview (CLAD certificate), AutoCAD, Creo Parametric, Mathematica, Latex"
   
 [[feature]]
   icon = "globe-asia"
