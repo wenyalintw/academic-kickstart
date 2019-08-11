@@ -1,5 +1,5 @@
 ---
-title: Dicom-Viewer
+title: Google-Patents-Scraper
 summary: Automatically download all PDF files of searching results & their patent families found in Google Patents.
 tags:
 - Patent
