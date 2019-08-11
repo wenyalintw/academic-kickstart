@@ -1,6 +1,6 @@
 ---
 title: Google-Patents-Scraper
-summary: Automatically download all PDF files of searching results & their patent families found in Google Patents.
+summary: Automatically download all PDF files of searching results & their patent families found on Google Patents.
 tags:
 - Patent
 - Scrapping
@@ -88,7 +88,7 @@ slides: ""
 </ul>
 
 <p align="center">
-    <img src="resources/set_proxy.png" alt="preprocessing" width="485" height="355">
+    <img src="resources/set_proxy.png" alt="preprocessing" width="600">
 </p>
 
 <h3 id="searchdownloadpatents">Search &amp; Download Patents</h3>
@@ -96,7 +96,7 @@ slides: ""
 <ul>
 <li>Select an output directory to store downloaded/generated files</li>
 
-<li>Search whatever you like (search terms' format are the same as Google Patents)</li>
+<li>Search whatever you like (search terms' format same as Google Patents)</li>
 
 <li>Download PDF files of searching results &amp; their patent families</li>
 </ul>
@@ -104,7 +104,7 @@ slides: ""
 <p>PDF files and auto-generated <code>overview.md</code> will then be stored in selected directory</p>
 
 <p align="center">
-    <img src="resources/search_download.png" alt="preprocessing" width="512" height="374">
+    <img src="resources/search_download.png" alt="preprocessing" width="600">
 </p>
 
 <h3 id="filestructureofoutputdirectory">File Structure of Output Directory</h3>
@@ -169,7 +169,7 @@ slides: ""
 </code></pre>
 
 <ul>
-<li>Ready to go!</li>
+<li>Ready to go</li>
 </ul>
 
 <pre><code class="sh language-sh">cd src
