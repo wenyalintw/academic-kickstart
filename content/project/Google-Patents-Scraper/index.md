@@ -50,13 +50,13 @@ slides: ""
 <h2 id="tableofcontents">Table of contents</h2>
 
 <ul>
-<li><a href="#application-demo">Application Demo</a></li>
+<li><a href="#applicationdemo">Application Demo</a></li>
 
 <li><a href="#introduction">Introduction</a></li>
 
-<li><a href="#built-with">Built With</a></li>
+<li><a href="#builtwith">Built With</a></li>
 
-<li><a href="#getting-started">Getting Started</a></li>
+<li><a href="#gettingstarted">Getting Started</a></li>
 
 <li><a href="#acknowledgments">Acknowledgments</a></li>
 </ul>
