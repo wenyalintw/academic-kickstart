@@ -18,13 +18,13 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Programming & Tools"
-  description = "C, C++, Python, Web (JavaScript, HTML, CSS), MATLAB, Git"
+  description = "C, C++, Python, Web (JavaScript, HTML, CSS), MATLAB, Git, LaTeX"
 
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
   name = "Engineering software"
-  description = "Labview (CLAD certificate), AutoCAD, Creo Parametric, Mathematica, LaTeX"
+  description = "Labview (CLAD certificate), AutoCAD, Creo Parametric, Mathematica"
   
 [[feature]]
   icon = "globe-asia"
