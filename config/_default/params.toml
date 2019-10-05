@@ -62,9 +62,9 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "Feel Free to Email Me", link = "mailto:wenyalintw@gmail.com"},
+  {icon = "envelope", icon_pack = "fas", name = "wenyalintw@gmail.com", link = "mailto:wenyalintw@gmail.com"},
   {icon = "phone-volume", icon_pack = "fas", name = "886-975-308813", link = "tel:+886975308813"},
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/wenyalintw"},
   {icon = "map-marked-alt", icon_pack = "fas", name = "College of Engineering Building Room 138, National Taiwan University, Taipei, 10617, Taiwan", link = "https://www.google.com.tw/maps/place/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E5%B7%A5%E5%AD%B8%E9%99%A2%E7%B6%9C%E5%90%88%E5%A4%A7%E6%A8%93/@25.0189128,121.5380683,17z/data=!3m1!4b1!4m5!3m4!1s0x3442aa26566535a1:0xcb90af79cd14d3e7!8m2!3d25.018908!4d121.540257"},
   ]
 
