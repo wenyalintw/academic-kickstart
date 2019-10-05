@@ -20,7 +20,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: View on Github
+  name: View on GitHub
   url: https://github.com/wenyalintw/Spoken-Digit-Recognizer
 
 url_code: ""

@@ -19,8 +19,12 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: View on Github
+  name: View on GitHub
   url: https://github.com/wenyalintw/Webaholic-Reminder
+- icon: chrome
+  icon_pack: fab
+  name: Install it
+  url: https://chrome.google.com/webstore/detail/webaholic-reminder/ilidphpahmdlgjlcejdjhbeodnjhdhbb
 
 url_code: ""
 url_pdf: ""
@@ -36,7 +40,7 @@ slides: ""
 ---
 <p align="center">
   <a href=#>
-    <img src="src/bell.png" alt="Webaholic Reminder" width="96" height="96">
+    <img src="resources/bell.png" alt="Webaholic Reminder" width="96" height="96">
   </a>
   <h2 align="center">Webaholic Reminder</h2>
   <h6 align="center">––––– Chrome Extension –––––</h2>
