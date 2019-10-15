@@ -34,9 +34,9 @@ education:
     institution: National Taiwan University
     year: 2014
     senior_gpa: >-
-    	Senior GPA: 4.1/4.3
+        Senior GPA: 4.1/4.3
     junior_gpa: >-
-    	Junior GPA: 3.9/4.3
+        Junior GPA: 3.9/4.3
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
