@@ -33,10 +33,9 @@ education:
   - course: B.S. in Mechanical Engineering
     institution: National Taiwan University
     year: 2014
-    GPA: display
-    - senior_gpa: >-
+    senior_gpa: >-
           – Senior GPA: 4.1/4.3
-    - junior_gpa: >-
+    junior_gpa: >-
           – Junior GPA: 3.9/4.3
 
 # 用個GPA性質讓about.html有辦法抓而已
