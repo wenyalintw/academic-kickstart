@@ -31,7 +31,7 @@ education:
     institution: National Taiwan University
     year: 2018
   - course: B.S. in Mechanical Engineering
-    institution: National Taiwan University<br>Junior GPA: 4.1/4.3<br>Senior GPA: 3.9/4.3
+    institution: National Taiwan University\nJunior GPA: 4.1/4.3\nSenior GPA: 3.9/4.3
     year: 2014
     
 # Social/Academic Networking
