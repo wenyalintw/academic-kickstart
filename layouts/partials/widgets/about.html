@@ -99,7 +99,7 @@
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
               <!-- 修改這邊，多加跟class和institution一樣，但其實是拿來放GPA的！ -->
-              {{ with $.senior_gpa }}
+              {{ with .course }}
               <p class="institution">{{ .senior_gpa }}</p>
               <p class="institution">{{ .junior_gpa }}</p>
               {{ end }}
