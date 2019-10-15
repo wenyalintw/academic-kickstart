@@ -33,6 +33,8 @@ education:
   - course: B.S. in Mechanical Engineering
     institution: National Taiwan University
     year: 2014
+    Junior GPA: 4.1/4.3
+    Senior GPA: 3.9/4.3
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
