@@ -23,7 +23,7 @@ twitter = "wenyalintw"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "logo.png"
+logo = ""
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -113,7 +113,7 @@ gravatar = false
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
 [main_menu]
-  align = "r"
+  align = "c"
   show_logo = false
 
 # Show estimated reading time for posts? (true/false)
