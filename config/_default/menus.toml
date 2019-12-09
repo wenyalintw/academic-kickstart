@@ -5,6 +5,11 @@
 
 # [languages]
 #   [languages.en]
+
+[languages.en]
+weight = 0
+languageName = "English"
+
 [[languages.en.menu.main]]
   name = "Home"
   url = "#about"
@@ -30,6 +35,11 @@
   url = "#contact"
   weight = 60
 # [languages.zh-Hant]
+
+[languages.zh-Hant]
+weight = 10
+languageName = "繁體中文"
+
 [[languages.zh-Hant.menu.main]]
   name = "主頁"
   url = "#about"
