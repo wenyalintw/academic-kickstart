@@ -12,7 +12,7 @@
 [zh-Hant]
   languageCode = "zh-Hant"
   contentDir = "content/zh-Hant"
-  title = "林温雅"
+  title = "Wen-Ya Lin"
 #  [zh-Hant.params]
 #    description = "Site description in Chinese..."
   [[zh-Hant.menu.main]]
