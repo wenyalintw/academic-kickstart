@@ -6,15 +6,36 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+  # menus.toml是給預設語言的，中文的直接放在下面
+  # 參考這個人的 https://github.com/daviddwlee84/personal-website/blob/master/config/_default/languages.toml
 # Uncomment the lines below to configure your website in a second language.
 [zh-Hant]
   languageCode = "zh-Hant"
   contentDir = "content/zh-Hant"
   title = "林温雅"
-#  [zh.params]
+#  [zh-Hant.params]
 #    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [[zh-Hant.menu.main]]
+  	name = "主頁"
+  	url = "#about"
+  	weight = 10
+  [[zh-Hant.menu.main]]
+  	name = "技能專長"
+  	url = "#skills"
+  	weight = 20
+  [[zh-Hant.menu.main]]
+  	name = "作品"
+  	url = "#projects"
+  	weight = 30
+  [[zh-Hant.menu.main]]
+  	name = "經歷"
+  	url = "#experience"
+  	weight = 40
+  [[zh-Hant.menu.main]]
+  	name = "聯絡資訊"
+  	url = "#contact"
+  	weight = 60
+  [[zh-Hant.menu.main]]
+    name = "CV"
+    url = "files/cv_chinese.pdf"
+    weight = 100
