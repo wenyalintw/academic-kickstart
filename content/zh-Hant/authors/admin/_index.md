@@ -22,8 +22,8 @@ bio: 研究興趣包括但不限於影像處理、人工智慧和物聯網等領
 
 interests:
 - 醫學影像處理
-- 人工智慧 AI
-- 物聯網 IOT
+- 人工智慧（AI）
+- 物聯網（IOT）
 
 education:
   courses:
