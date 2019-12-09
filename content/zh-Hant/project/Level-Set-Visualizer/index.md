@@ -1,6 +1,6 @@
 ---
 title: Level-Set-Visualizer
-summary: Visualize image segmentation based on level set method.
+summary: 水平集影像分割法之視覺化操作應用程式。
 tags:
 - Dicom
 - Image Processing

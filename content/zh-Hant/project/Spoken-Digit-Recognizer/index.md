@@ -1,6 +1,6 @@
 ---
 title: Spoken-Digit Recognizer
-summary: Build ML model with Keras to recognize spoken-digit.
+summary: 可辨識口說中英數字之ML模型Demo。
 tags:
 - Machine Learning
 - Keras

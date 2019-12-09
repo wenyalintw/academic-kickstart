@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "技能專長"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Programming & Tools"
+  name = "程式設計 & 工具"
   description = "C, C++, Python, Web (JavaScript, HTML, CSS), MATLAB, Git, LaTeX"
 
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Engineering software"
-  description = "Labview (CLAD certificate), AutoCAD, Creo Parametric, Mathematica"
+  name = "工程軟體"
+  description = "Labview (CLAD認證), AutoCAD, Creo Parametric, Mathematica"
   
 [[feature]]
   icon = "globe-asia"
   icon_pack = "fas"
-  name = "Language"
-  description = "Mandarin (Mother tongue), English (TOEIC 950), Japanese (JLPT N3)"
+  name = "語言"
+  description = "中文, 英文（TOEIC 950）, 日文（JLPT N3）"
 
 +++

@@ -1,6 +1,6 @@
 ---
-title: Google-Patents-Scraper
-summary: Automatically download all PDF files of searching results & their patent families found on Google Patents.
+title: Google-Patents-Scraper Google
+summary: 專利PDF檔下載器。自動下載Google  Patents搜尋結果之專利與其專利家族的PDF檔。
 tags:
 - Patent
 - Scrapping

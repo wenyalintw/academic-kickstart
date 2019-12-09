@@ -1,6 +1,6 @@
 ---
 title: Webaholic-Reminder
-summary: A chrome extension remind you to work when you spend too much time on the internet.
+summary: 用來戒斷對特定網站成癮之Chrome瀏覽器擴充程式。
 tags:
 - Web
 - JavaScript

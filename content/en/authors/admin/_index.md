@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a M.S. Student in Mechanical Engineering at National Taiwan University. My interdisciplinary interests including IOT, AI and image processing. Recently, my research focus on medical image segementation.
+I am a M.S. Student in Mechanical Engineering at National Taiwan University. My interdisciplinary interests including IOT, AI and image processing. Recently, my research focus on AI application in medical imaging.
 
 Feel free to contact me for any reason, it will be my pleasure to hear from you. Have a nice day!

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Wen-Ya Lin
+name: 林温雅
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. Student in Mechanical Engineering
+role: 機械工程學系碩士
 
 # Organizations/Affiliations
 organizations:
-- name: National Taiwan University
-  url: "https://www.ntu.edu.tw/english/"
+- name: 國立臺灣大學
+  url: "https://www.ntu.edu.tw/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Image Processing, Artificial Intelligence and Internet of Things.
+bio: 研究興趣包括但不限於影像處理、人工智慧和物聯網等領域，歡迎隨時來信交流！
 
 interests:
-- Medical Image Processing
-- Artificial Intelligence
-- Internet of Things
+- 醫學影像處理
+- 人工智慧 AI
+- 物聯網 IOT
 
 education:
   courses:
-  - course: M.S. in Mechanical Engineering
-    institution: National Taiwan University
+  - course: 機械工程學系碩士
+    institution: 國立臺灣大學
     year: 2018
-  - course: B.S. in Mechanical Engineering
-    institution: National Taiwan University
+  - course: 機械工程學系學士
+    institution: 國立臺灣大學
     year: 2014
     senior_gpa: >-
-          – Senior GPA:  4.1/4.3
+          – 大四GPA:  4.1/4.3
     junior_gpa: >-
-          – Junior GPA:  3.9/4.3
+          – 大三GPA:  3.9/4.3
 
 # 用個GPA性質讓about.html有辦法抓而已
 # Social/Academic Networking
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-測試 I am a M.S. Student in Mechanical Engineering at National Taiwan University. My interdisciplinary interests including IOT, AI and image processing. Recently, my research focus on medical image segementation.
+目前就讀於臺灣大學機械工程研究所的碩士生，興趣包括但不限於影像處理、人工智慧和物聯網等領域。當前研究專注於AI於醫學影像之應用。
 
-Feel free to contact me for any reason, it will be my pleasure to hear from you. Have a nice day!
+對任何工作、研究機會抱持開放態度，歡迎隨時來信交流！
