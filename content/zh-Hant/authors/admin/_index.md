@@ -56,8 +56,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wenyalintw
-- icon: ai
-  icon_pack: cv
+- icon: cv
+  icon_pack: ai
   link: files/cv_chinese.pdf
 
 
