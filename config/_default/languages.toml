@@ -10,7 +10,7 @@
 # Uncomment the lines below to configure your website in a second language.
 [zh-Hant]
   languageCode = "zh-Hant"
-  contentDir = "content/zh"
+  contentDir = "content/zh-Hant"
   title = "林温雅"
 #  [zh.params]
 #    description = "Site description in Chinese..."
