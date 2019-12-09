@@ -16,11 +16,11 @@
 #  [zh-Hant.params]
 #    description = "Site description in Chinese..."
   [[zh-Hant.menu.main]]
-  	name = "主頁"
+  	name = "關於我"
   	url = "#about"
   	weight = 10
   [[zh-Hant.menu.main]]
-  	name = "技能專長"
+  	name = "技能"
   	url = "#skills"
   	weight = 20
   [[zh-Hant.menu.main]]
@@ -36,6 +36,6 @@
   	url = "#contact"
   	weight = 60
   [[zh-Hant.menu.main]]
-    name = "CV"
+    name = "簡歷"
     url = "files/cv_chinese.pdf"
     weight = 100
