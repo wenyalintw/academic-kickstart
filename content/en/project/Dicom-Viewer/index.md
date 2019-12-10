@@ -2,7 +2,6 @@
 title: Dicom-Viewer
 summary: An PyQt-application which could display and edit 2D/3D Dicom image.
 authors: ["admin"]
-share: true
 tags:
 - Dicom
 - Image Processing
