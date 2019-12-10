@@ -108,6 +108,12 @@ plugins_js  = []
 ## Advanced options       ##
 ############################
 
+# Enable in-built social sharing buttons? (true/false)
+sharing = true
+
+# Link authors to their profile page? (true/false)
+link_authors = true
+
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
@@ -127,10 +133,10 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+# sharing = true
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+# link_authors = true
 
 # Configuration of publication pages.
 [publications]
