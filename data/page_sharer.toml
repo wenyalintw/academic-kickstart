@@ -55,4 +55,4 @@
   title = "Reddit"
   icon_pack = "fab"
   icon = "reddit-alien"
-  enable = false
+  enable = true
