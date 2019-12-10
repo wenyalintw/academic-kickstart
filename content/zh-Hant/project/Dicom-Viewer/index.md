@@ -1,6 +1,7 @@
 ---
 title: Dicom-Viewer
 summary: 可顯示與編輯 2D/3D Dicom影像之應用程式。
+authors: ["admin"]
 tags:
 - Dicom
 - Image Processing

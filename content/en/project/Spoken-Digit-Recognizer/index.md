@@ -1,6 +1,7 @@
 ---
 title: Spoken-Digit Recognizer
 summary: Build ML model with Keras to recognize spoken-digit.
+authors: ["admin"]
 tags:
 - Machine Learning
 - Keras

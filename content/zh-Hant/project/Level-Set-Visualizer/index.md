@@ -1,6 +1,7 @@
 ---
 title: Level-Set-Visualizer
 summary: 水平集影像分割法之視覺化操作應用程式。
+authors: ["admin"]
 tags:
 - Dicom
 - Image Processing

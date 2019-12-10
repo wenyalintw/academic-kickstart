@@ -1,6 +1,7 @@
 ---
 title: Level-Set-Visualizer
 summary: Visualize image segmentation based on level set method.
+authors: ["admin"]
 tags:
 - Dicom
 - Image Processing

@@ -1,6 +1,7 @@
 ---
 title: Webaholic-Reminder
 summary: 用來戒斷對特定網站成癮之Chrome瀏覽器擴充程式。
+authors: ["admin"]
 tags:
 - Web
 - JavaScript

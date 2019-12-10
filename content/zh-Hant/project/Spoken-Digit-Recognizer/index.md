@@ -1,6 +1,7 @@
 ---
 title: Spoken-Digit Recognizer
 summary: 可辨識口說中英數字之ML模型Demo。
+authors: ["admin"]
 tags:
 - Machine Learning
 - Keras
