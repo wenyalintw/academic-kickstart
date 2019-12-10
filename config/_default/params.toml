@@ -129,7 +129,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 sharing = true
 
 # Link authors to their profile page? (true/false)
-link_authors = trueasdfadsf
+link_authors = true
 
 # Configuration of publication pages.
 [publications]
