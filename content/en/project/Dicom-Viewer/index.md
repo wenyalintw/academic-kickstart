@@ -33,7 +33,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
 <p align="center">
   <a href="https://github.com/wenyalintw/Dicom_Viewer">
     <img src="resources/brain.png" alt="Dicom Viewer" width="96" height="96">
