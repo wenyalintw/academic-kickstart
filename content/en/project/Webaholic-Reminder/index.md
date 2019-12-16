@@ -1,6 +1,6 @@
 ---
 title: Webaholic-Reminder
-summary: A chrome extension remind you to work when you spend too much time on the internet.
+summary: A chrome extension remind you to work when you spend too much time on specific sites.
 authors: ["admin"]
 tags:
 - Web
