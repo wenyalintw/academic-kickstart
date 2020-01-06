@@ -34,9 +34,9 @@ education:
     institution: 國立臺灣大學
     year: 2014
     senior_gpa: >-
-          – 大四GPA:  4.1/4.3
+          – 大四GPA:  4.1/4.3 (排名 31/189)
     junior_gpa: >-
-          – 大三GPA:  3.9/4.3
+          – 大三GPA:  3.9/4.3 (排名 41/159)
 
 # 用個GPA性質讓about.html有辦法抓而已
 # Social/Academic Networking
