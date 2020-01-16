@@ -58,7 +58,7 @@ social:
   link: https://twitter.com/wenyalintw
 - icon: cv
   icon_pack: ai
-  link: files/履歷-林温雅.pdf
+  link: files/WenYaLin-zh.pdf
 
 
 # Link to a PDF of your resume/CV from the About widget.

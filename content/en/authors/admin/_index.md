@@ -58,7 +58,7 @@ social:
   link: https://twitter.com/wenyalintw
 - icon: cv
   icon_pack: ai
-  link: files/resume-WenYaLin.pdf
+  link: files/WenYaLin-en.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
